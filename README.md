@@ -54,10 +54,12 @@ If you want to disable italics, add this snippet to your `settings.json`:
 },
 ```
 
-## Colours
-I have worked towards a color palette that would feel fine on the eyes when using retina screens, this color combination made it possible, thanks to the pastel colors used on dark mode instead of "neonish".
+## Colors
 
-The theme is available for editors, shells, UI's and more coming up.
+I have worked to create a color palette that's comfortable for your eyes when using retina screens.
+This color combination made it possible, thanks to using pastel colors on a dark background instead of "neonish" colors.
+
+This theme is available for editors, shells, UI's and more coming up.
 
 ## Available Options
 
@@ -130,4 +132,4 @@ The theme is available for editors, shells, UI's and more coming up.
 
 ## Feedback
 
-Anything you wonder just contact me, @Mike_Andreuzza on twitter.
+Contact me on Twitter if you're wondering about anything: `@Mike_Andreuzza`.
