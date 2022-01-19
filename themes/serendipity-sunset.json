@@ -118,7 +118,7 @@
     "editorBracketPairGuide.background4": "#78A9FF80",
     "editorBracketPairGuide.background5": "#c084fc80",
     "editorBracketPairGuide.background6": "#F2877980",
-     "editorCodeLens.foreground": "#e6a097",
+    "editorCodeLens.foreground": "#e6a097",
     "editorCursor.background": "#e6a097",
     "editorCursor.foreground": "#F28779",
     "editorError.border": "#0000",
