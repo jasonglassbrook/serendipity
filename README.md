@@ -6,12 +6,15 @@
 
 ## Installation
 
-1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for **`serendipity`**
-3. Click **Install** to install it.
-4. Code > Preferences > Color Theme >
- **serendipity-light - serendipity-dark - serendipity-dark-italic - serendipity-light-italic**
-5. Optional: Use the recommended settings below for best experience
+1. Launch Visual Studio Code
+2. Open the **Extensions** panel by clicking `View` → `Extensions`
+3. Search for `serendipity`
+4. Click `Install`
+5. Activate this theme by clicking `Code` on macOS or `File` on Windows → `Preferences` → `Color Theme` and choosing one of the following options:
+   - **`Serendipity Morning`**
+   - **`Serendipity Sunset`**
+   - **`Serendipity Midnight`**
+6. **Optional**: Use the recommended settings below for the best experience
 
 ## Recommended Settings
 
