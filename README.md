@@ -2,7 +2,7 @@
 
 [Serendipity Theme](https://serendipitytheme.com)
 
-![Preview](https://raw.githubusercontent.com/michael-andreuzza/wvsc-serendipity/master/serendipityHero.png)
+![Preview](./images/serendipityHero.png)
 
 ## Installation
 
@@ -101,37 +101,37 @@ This theme is available for editors, shells, UI's and more coming up.
 
 #### Color Palette
 
-![Preview](https://raw.githubusercontent.com/michael-andreuzza/wvsc-serendipity/master/darkColors.png)
+![Preview](./images/darkColors.png)
 
 #### HTML
 
-![Preview](https://raw.githubusercontent.com/michael-andreuzza/wvsc-serendipity/master/darkHtml.png)
+![Preview](./images/darkHtml.png)
 
 #### CSS
 
-![Preview](https://raw.githubusercontent.com/michael-andreuzza/wvsc-serendipity/master/darkCss.png)
+![Preview](./images/darkCss.png)
 
 #### JS
 
-![Preview](https://raw.githubusercontent.com/michael-andreuzza/wvsc-serendipity/master/darkJs.png)
+![Preview](./images/darkJs.png)
 
 ### Light Version
 
 #### Color Palette
 
-![Preview](https://raw.githubusercontent.com/michael-andreuzza/wvsc-serendipity/master/lightColors.png)
+![Preview](./images/lightColors.png)
 
 #### HTML
 
-![Preview](https://raw.githubusercontent.com/michael-andreuzza/wvsc-serendipity/master/lightHtml.png)
+![Preview](./images/lightHtml.png)
 
 #### CSS
 
-![Preview](https://raw.githubusercontent.com/michael-andreuzza/wvsc-serendipity/master/lightCss.png)
+![Preview](./images/lightCss.png)
 
 #### JS
 
-![Preview](https://raw.githubusercontent.com/michael-andreuzza/wvsc-serendipity/master/lightJs.png)
+![Preview](./images/lightJs.png)
 
 ## Feedback
 
